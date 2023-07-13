@@ -1,0 +1,16 @@
+.container{
+    border: 8px solid red;
+    text-align: center;
+    margin: 56px auto 0%;
+    width: 360px;
+    height: 712px;
+}
+
+.container p{
+    font-size: 'Inter', sans-serif;
+
+}
+.container h1{
+    font-size: 'Inter', sans-serif;
+
+}
